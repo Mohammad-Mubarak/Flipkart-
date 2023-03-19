@@ -1,4 +1,4 @@
-# Flip
+# Flipkart
 This is the clone of Flipkart with signup, login and add to cart functionality. It's a Full-Stack app.
 
 # Home Page
