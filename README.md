@@ -34,6 +34,28 @@ If user has added something in cart then...
 ![Screenshot (30)](https://user-images.githubusercontent.com/107405196/204783410-fe871302-98ac-47bb-bcdf-05d436f57651.png)
 
 
+## Installation
+
+Install my-project with npm
+It will Install All Dependency
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`DB_USERNAME`
+`DB_PASSWORD`
+`JWT_SECRET`
+
+
+
+
 ## Features
 
 - Login/Logout
