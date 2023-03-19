@@ -32,3 +32,24 @@ If cart is empty, it'll show empty...
 If user has added something in cart then...
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/107405196/204783410-fe871302-98ac-47bb-bcdf-05d436f57651.png)
+
+
+## Features
+
+- Login/Logout
+- Signup Up
+- Payment
+- Add To Cart
+- Search
+- Get All Products
+
+
+
+
+
+
+## Tech Stack
+
+**Client:** ,Html,CSS,React,Redux,Chakra UI
+
+**Server:** Node, Express ,Mongoose,MongoDB
